@@ -1,4 +1,4 @@
-# Kaggle_predicting-red-hat-business-value
+# Kaggle_predicting-red-hat-business-value starter script by zfturbo
 
 import datetime
 import pandas as pd
