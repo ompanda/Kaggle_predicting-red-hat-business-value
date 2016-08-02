@@ -1,5 +1,4 @@
 # Kaggle_predicting-red-hat-business-value
-__author__ = 'ZFTurbo: https://kaggle.com/zfturbo'
 
 import datetime
 import pandas as pd
